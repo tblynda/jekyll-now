@@ -2,14 +2,28 @@
 layout: post
 title: 1.React 개발환경 구축
 ---
-create-react-app 를 이용해 react를 쉽게 설치하고 시작할 수 있다.<br>
-그전에 node.js / npm이 설치되있어야 한다.<br>
-create-react-app를 설치하면 react에 필요한 도구들인 webpack, babel등이 포함되어 있어 환경설정을 쉽게 할 수 있다.
+
+React는 코드는 ES6 기반이기 때문에 이를 브라우저가 이해할수 있는 코드로 변경하기 위해 
+
+Babel 이나 Webpack 등 여러 패키지를 설치해야 한다.
+
+그러나 React 템플릿을 설치해주는 패키지인 create-react-app을 이용하여 환경설정을 쉽게 할 수 있다.
+
+create-react-app을 설치하면 react에 필요한 패키지들을 한번에 세팅해준다.
+
+그전에 node.js / npm이 설치되있어야 한다.
+
+
+create-react-app 설치방법
 
 1. npm install -g create-react-app
+
 2. create-react-app my-app
+
 3. cd my-app
+
 4. npm start
+
 5. http://localhost:3000/  를 통해 확인할 수 있다.
 
 
