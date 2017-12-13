@@ -12,10 +12,10 @@ create-react-app을 설치하면 react에 필요한 패키지들을 한번에 �
 그전에 node.js / npm이 설치되있어야 한다. <br><br>
 
 create-react-app 설치방법 <br>
-1. npm install -g create-react-app <br>
-2. create-react-app my-app <br>
-3. cd my-app <br>
-4. npm start <br> <br>
+npm install -g create-react-app <br>
+create-react-app my-app <br>
+cd my-app <br>
+npm start <br> <br>
 ![이미지](https://github.com/tblynda/tblynda.github.io/blob/master/images/react1_01.PNG?raw=true)
 
 http://localhost:3000/  를 통해 확인할 수 있다. <br> <br>
