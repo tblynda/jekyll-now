@@ -11,14 +11,14 @@ Babel 이나 Webpack 등 여러 패키지를 설치해야 한다. <br><br>
 create-react-app을 설치하면 react에 필요한 패키지들을 한번에 세팅해준다. <br><br>
 그전에 node.js / npm이 설치되있어야 한다. <br><br>
 
-# create-react-app 설치방법 <br>
--npm install -g create-react-app <br>
--create-react-app my-app <br>
--cd my-app <br>
--npm start <br> <br>
+## create-react-app 설치방법 <br>
+- npm install -g create-react-app <br>
+- create-react-app my-app <br>
+- cd my-app <br>
+- npm start <br> <br>
 ![이미지](https://github.com/tblynda/tblynda.github.io/blob/master/images/react1_01.PNG?raw=true)
 
--http://localhost:3000/  를 통해 확인할 수 있다. <br> <br>
+- http://localhost:3000/  를 통해 확인할 수 있다. <br> <br>
 ![이미지](https://github.com/tblynda/tblynda.github.io/blob/master/images/react1_03.PNG?raw=true)
 
 
