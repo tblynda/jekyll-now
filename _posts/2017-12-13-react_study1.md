@@ -16,11 +16,9 @@ create-react-app 설치방법 <br>
 2. create-react-app my-app <br>
 3. cd my-app <br>
 4. npm start <br>
-
 ![이미지](https://github.com/tblynda/tblynda.github.io/blob/master/images/react1_01.PNG?raw=true)
 
-5. http://localhost:3000/  를 통해 확인할 수 있다. <br><br>
-
+http://localhost:3000/  를 통해 확인할 수 있다. <br>
 ![이미지](https://github.com/tblynda/tblynda.github.io/blob/master/images/react1_03.PNG?raw=true)
 
 
