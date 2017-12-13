@@ -2,7 +2,7 @@
 
 layout: post
 
-title: Hello World
+title: [React] 2.JSX 란?
 
 ---
 
