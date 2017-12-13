@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1.React 개발환경 구축
+title: 1. React 개발환경 구축
 ---
 
 React는 코드는 ES6(javascript 최신버젼) 기반이기 때문에 <br>
