@@ -17,6 +17,6 @@ JSX란 자바스크립트 코드 내에서 쓰는 html,xml와 닮은 코드다.<
 
 
 ## JSX 특징<br>
->아래 예시처럼 자바스크립트 표현식을 중괄호로 묶어 JSX에 삽입 할 수 있다.<br><br>
+1. 아래 예시처럼 자바스크립트 표현식을 중괄호로 묶어 JSX에 삽입 할 수 있다.<br><br>
 ![이미지](https://github.com/tblynda/tblynda.github.io/blob/master/images/react2_02.PNG?raw=true)
 
