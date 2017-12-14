@@ -6,8 +6,8 @@ title: 2. JSX 란?
 
 ---
 
-react에는 JSX라는 리액트 코드를 사용한다.<br><br>
-JSX란 react 안에서 쓰는 html코드와 비슷한 코드다.<br><br>
+React에는 JSX라는 리액트 코드를 사용한다.<br><br>
+JSX란 React 안에서 쓰는 html코드와 비슷한 코드다.<br><br>
 브라우저는 JSX를 인식하지 못하기때문에 <br>
 바벨이라는 자바스크립트 컴파일러를 이용해 인식가능한 자바스크립트로 변환한다.<br><br>
 
