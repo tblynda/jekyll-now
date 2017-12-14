@@ -26,3 +26,12 @@ JSX란 자바스크립트 코드 내에서 쓰는 html,xml와 닮은 코드다.<
 1. 아래 예시처럼 자바스크립트 표현식을 중괄호로 묶어 JSX에 삽입 할 수 있다.<br><br>
 ![이미지](https://github.com/tblynda/tblynda.github.io/blob/master/images/react2_03.PNG?raw=true)
 
+2. JSX에서는 태그안에 style 속성에 css를 직접 지정할 수 없다. 인라인 스타일을 선언하려면 css값을 카멜표기법으로 작성해 javascript 객체에 전달해야 한다.<br><br>
+![이미지](https://github.com/tblynda/tblynda.github.io/blob/master/images/react2_04.PNG?raw=true)
+
+3. class는 자바스크립트의 예약어라서 JSX에서는 className로 쓴다.
+
+4. 주석은 자바스크립트의 경우와 동일하나 태그의 자식 위치에 자석을 넣을때, 중괄호로 감싸야 한다.
+
+5. JSX에서는 조건문 if 대신 다음과 같은 삼항연산자를 사용한다. {조건 ? '참' : '거짓'}<br><br>
+![이미지](https://github.com/tblynda/tblynda.github.io/blob/master/images/react2_05.PNG?raw=true)
