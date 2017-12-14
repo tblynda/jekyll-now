@@ -40,3 +40,7 @@ JSX란 자바스크립트 코드 내에서 쓰는 html,xml와 닮은 코드다.<
 6. 둘 이상의 루트 엘리먼트를 리턴하거나 렌데링할 수 없으며, <br>
 단 하나의 루트 노트만 리턴 가능하기 때문에 다음과 같이 하나의 부모 엘리먼트로 모두 감싸야 한다. <br><br>
 ![이미지](https://github.com/tblynda/tblynda.github.io/blob/master/images/react2_06.PNG?raw=true)
+
+7.  단일 태그를 쓸 때 HTML에서 /를 쓰는 것은 옵션이나, JSX에서는 단일 태그에 /를 쓰는 것이 필수다.
+
+
